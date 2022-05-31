@@ -2,7 +2,8 @@
 
 ## Introduction
 
-    This project is related to CRUD ( Create - Read - Update - Delete ) operation. For this assessment, Laravel, MySQL, PHP 7.4 is used.
+    This project is related to CRUD ( Create - Read - Update - Delete ) operation. 
+    For this assessment, Laravel, MySQL, PHP 7.4 is used.
 
 ## Installation
 
